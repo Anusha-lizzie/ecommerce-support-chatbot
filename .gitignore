@@ -1,0 +1,11 @@
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+list_models.py
+
+# Python cache
+__pycache__/
+*.pyc

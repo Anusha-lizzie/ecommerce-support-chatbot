@@ -1,0 +1,2 @@
+If payment fails but money is deducted, the amount is refunded within 3–5 business days.
+Customers can also retry payment or choose cash on delivery.
