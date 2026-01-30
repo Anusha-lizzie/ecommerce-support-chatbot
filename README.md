@@ -13,3 +13,12 @@ Uses Retrieval-Augmented Generation (RAG) to answer queries based on store polic
 - Streamlit
 - Gemini LLM
 - FAISS
+
+## Current Status
+- Streamlit UI complete
+- RAG implemented using semantic embeddings + FAISS
+- Local LLM integration using LM Studio (Work in progress)
+
+Next steps:
+- Stabilize local inference
+- Compare LM Studio vs Ollama
